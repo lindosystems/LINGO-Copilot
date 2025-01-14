@@ -13,6 +13,12 @@ Sign up for  [GitHub Copilot Free](https://github.com/settings/copilot?utm_sourc
 
 To access GitHub Copilot, an active GitHub Copilot subscription is required. See: [github.com/features/copilot](https://github.com/features/copilot?utm_source=vscode-completions-readme&utm_medium=readme&utm_campaign=2024q3-em-MSFT-signup "https://github.com/features/copilot?utm_source=vscode-completions-readme&utm_medium=readme&utm_campaign=2024q3-em-MSFT-signup").
 
+## Getting LINGO Copilot 
+
+LINGO Copilot is available on the VS Code marketplace for download. To install open VS Code and bring up the Extensions view by clicking on the Extensions icon, which is located on the Activity Bar on the left-hand side of the VS Code editor. Search the marketplace for LINGO Copilot and click Install. Next it is recommended that you also download the LINGO-lsp for syntax highlighting, auto complete and the ability to run LINGO scripts from VS Code.
+![Extensions icon](https://github.com/lindosystems/LINGO-Copilot/blob/main/res/Extensions_btn.png?raw=true#gh-light-mode-only)
+![](https://github.com/lindosystems/LINGO-Copilot/blob/main/res/lingo_copilot_market.png?raw=true#gh-light-mode-only)
+
 ## Using LINGO Copilot
 
 Start Visual Studio, and then in Copilot [chat view](https://code.visualstudio.com/docs/copilot/overview#_chat-view), open a LINGO .LNG file.  
