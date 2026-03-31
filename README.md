@@ -5,7 +5,7 @@ LINGO Copilot is an extension of GitHub Copilot that can assist you with develop
 LINGO Copilot requires three software: LINGO, GitHub Copilot, and Microsoft Visual Studio.
 
 ## Getting LINGO 
-The Copilot extension does not require that LINGO is installed. However, having the [latest version of LINGO 21](https://lindo.com/index.php/ls-downloads/try-lingo) installed on your computer is highly recommended. 
+The Copilot extension does not require that LINGO is installed. However, having the [latest version of LINGO](https://lindo.com/index.php/ls-downloads/try-lingo) installed on your computer is highly recommended. 
 
 ## Getting access to GitHub Copilot
 
